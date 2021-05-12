@@ -14,7 +14,7 @@
     "autonumeric": "^4.5.4",
     "bootstrap-v4-rtl": "^4.4.1-1",
     "bootstrap-vue": "^2.2.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "hover.css": "^2.3.2",
     "laravel-echo": "^1.5.3",
     "moment": "^2.24.0",
