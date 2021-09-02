@@ -40,7 +40,7 @@
     "vuejs-dialog": "^1.4.1"
   },
   "devDependencies": {
-    "axios": "^0.18",
+    "axios": "^0.21",
     "bootstrap": "^4.4.1",
     "cross-env": "^5.1",
     "deepmerge": "^4.2.2",
